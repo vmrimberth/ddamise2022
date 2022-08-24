@@ -4,7 +4,7 @@ let defaultLongitude = -65.8829336;
 let latitude, longitude = 0.0;
 
 var config = {
-    authDomain: "ddamise2022.firebaseapp.com",
+    authDomain: "ddamise2022-3293c.firebaseapp.com",
     databaseURL: "https://ddamise2022-3293c-default-rtdb.firebaseio.com",				  
     projectId: "ddamise2022"
 };
